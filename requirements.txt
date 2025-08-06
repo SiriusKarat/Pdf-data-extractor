@@ -1,4 +1,3 @@
-```txt
 PyMuPDF==1.23.8
 PyPDF2==3.0.1
 easyocr==1.7.1
